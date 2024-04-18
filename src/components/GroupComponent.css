@@ -1,0 +1,65 @@
+.group-child1,
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 270px;
+}
+.group-child1 {
+  border-radius: var(--br-10xs);
+  background-color: var(--white);
+  box-shadow: 0 8px 34px rgba(0, 0, 0, 0.06);
+  height: 315px;
+}
+.rectangle-icon {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  height: 200px;
+  object-fit: cover;
+}
+.signs-and-symptoms {
+  position: absolute;
+  top: 244px;
+  left: 20px;
+  line-height: 26px;
+  display: inline-block;
+  width: 230px;
+  height: 56px;
+  text-shadow: 0 5px 13px rgba(255, 255, 255, 0.4);
+}
+.jackie-moncada {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.jackie-moncada-parent {
+  position: absolute;
+  top: 207px;
+  left: 20px;
+  width: 134px;
+  height: 30px;
+  font-size: var(--font-size-sm);
+  color: var(--dark-60);
+  font-family: var(--font-mulish);
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 270px;
+  height: 315px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--main-dark);
+  font-family: var(--font-volkhov);
+}

@@ -1,0 +1,382 @@
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--white);
+  width: 426.5px;
+  height: 427.6px;
+}
+.group-child3 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.88%;
+  display: inline-block;
+}
+.reviews1 {
+  text-decoration: underline;
+}
+.reviews {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.02%;
+  bottom: 7.23%;
+  left: 10.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child4,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 426.5px;
+  height: 427.6px;
+}
+.rectangle-parent1 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child4 {
+  border-radius: var(--br-24xl);
+  background-color: var(--color-lavender);
+}
+.group-child5 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines1 {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.88%;
+  display: inline-block;
+}
+.reviews3 {
+  text-decoration: underline;
+}
+.reviews2 {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star1 {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.02%;
+  bottom: 7.23%;
+  left: 10.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child6,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 1399.6px;
+  width: 426.5px;
+  height: 427.6px;
+}
+.group-child6 {
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--white);
+}
+.group-child7 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines2 {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.88%;
+  display: inline-block;
+}
+.reviews5 {
+  text-decoration: underline;
+}
+.reviews4 {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star2 {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.02%;
+  bottom: 7.23%;
+  left: 10.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child8,
+.rectangle-parent3 {
+  position: absolute;
+  top: 0;
+  width: 426.5px;
+  height: 427.6px;
+}
+.rectangle-parent3 {
+  left: 466.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child8 {
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-lavender);
+}
+.group-child9 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines3 {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.86%;
+  display: inline-block;
+}
+.reviews7 {
+  text-decoration: underline;
+}
+.reviews6 {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star3 {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.04%;
+  bottom: 7.23%;
+  left: 10.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child10,
+.rectangle-parent4 {
+  position: absolute;
+  top: 0;
+  left: 1866.2px;
+  width: 426.5px;
+  height: 427.6px;
+}
+.group-child10 {
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--white);
+}
+.group-child11 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines4 {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.88%;
+  display: inline-block;
+}
+.reviews9 {
+  text-decoration: underline;
+}
+.reviews8 {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star4 {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.02%;
+  bottom: 7.23%;
+  left: 10.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child12,
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  width: 426.5px;
+  height: 427.6px;
+}
+.rectangle-parent5 {
+  left: 933.1px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child12 {
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-lavender);
+}
+.group-child13 {
+  position: absolute;
+  height: 70.84%;
+  width: 85.77%;
+  top: 6.99%;
+  right: 7.22%;
+  bottom: 22.17%;
+  left: 7.01%;
+  border-radius: var(--br-13xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.megaworld-cebu-philippines5 {
+  position: absolute;
+  height: 7.23%;
+  width: 70.53%;
+  top: 81.2%;
+  left: 10.88%;
+  display: inline-block;
+}
+.reviews11 {
+  text-decoration: underline;
+}
+.reviews10 {
+  position: absolute;
+  height: 5.78%;
+  width: 35.03%;
+  top: 88.42%;
+  left: 15.71%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.icon-star5 {
+  position: absolute;
+  height: 4.09%;
+  width: 4.1%;
+  top: 88.68%;
+  right: 85.02%;
+  bottom: 7.23%;
+  left: 10.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div,
+.newdash-inner1,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 2332.7px;
+  width: 426.5px;
+  height: 427.6px;
+}
+.group-div,
+.newdash-inner1 {
+  left: 0;
+  width: 2759.3px;
+}
+.newdash-inner1 {
+  top: 2690px;
+  left: 60px;
+  width: 2760px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
